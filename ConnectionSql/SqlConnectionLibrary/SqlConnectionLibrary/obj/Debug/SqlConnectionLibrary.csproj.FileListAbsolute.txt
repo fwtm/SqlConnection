@@ -1,0 +1,6 @@
+C:\Users\Fabricio\Documents\Sql_Conection\ConnectionSql\SqlConnectionLibrary\SqlConnectionLibrary\bin\Debug\SqlConnectionLibrary.dll
+C:\Users\Fabricio\Documents\Sql_Conection\ConnectionSql\SqlConnectionLibrary\SqlConnectionLibrary\bin\Debug\SqlConnectionLibrary.pdb
+C:\Users\Fabricio\Documents\Sql_Conection\ConnectionSql\SqlConnectionLibrary\SqlConnectionLibrary\obj\Debug\SqlConnectionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio\Documents\Sql_Conection\ConnectionSql\SqlConnectionLibrary\SqlConnectionLibrary\obj\Debug\SqlConnectionLibrary.dll
+C:\Users\Fabricio\Documents\Sql_Conection\ConnectionSql\SqlConnectionLibrary\SqlConnectionLibrary\obj\Debug\SqlConnectionLibrary.pdb
+C:\Users\Fabricio\Documents\Sql_Conection\ConnectionSql\SqlConnectionLibrary\SqlConnectionLibrary\obj\Debug\SqlConnectionLibrary.csproj.AssemblyReference.cache
